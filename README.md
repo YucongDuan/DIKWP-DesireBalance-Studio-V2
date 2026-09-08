@@ -1,5 +1,7 @@
 # DIKWP DesireBalance Studio V2
 
+Created by Yucong Duan (段玉聪).
+
 A standalone, offline-first interactive prototype for transforming desire-driven prosperity and anti-involution governance from abstract debate into a DIKWP semantic workbench.
 
 ## Core workflow
@@ -72,7 +74,7 @@ All bundled people, organizations, and cases are synthetic.
 
 ## Suggested Chinese name
 
-**DIKWP欲望—繁荣—反内卷语义治理工作台 V2**
+DIKWP欲望—繁荣—反内卷语义治理工作台 V2
 
 ## Design lineage
 
